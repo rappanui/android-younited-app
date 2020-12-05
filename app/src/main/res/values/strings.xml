@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YOUnited</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">uZKIhSL5ANSut1FNYFVT7bZgAsAcPLpsbUzFLWej</string>
+    <string name="back4app_client_key">1pYLAG20KZAP1kf4NpAAMoVYeApU2qUpQkNCKQXi</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_profile">Ver perfil</string>
+    <string name="action_search">Procurar bandas</string>
+</resources>
